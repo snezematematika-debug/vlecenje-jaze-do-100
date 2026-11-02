@@ -1,0 +1,6 @@
+{
+  "name": "Математичко влечење јаже",
+  "description": "Интерактивна игра со влечење јаже за вежбање множење и делење до 100 во училница со автоматска смена на потезите меѓу два тима.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
